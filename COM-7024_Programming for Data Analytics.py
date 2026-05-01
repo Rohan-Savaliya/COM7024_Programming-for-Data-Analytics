@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_excel("C:\Users\rksav\OneDrive\Desktop\assignment\Programming for data analytics\Sales Data_PDA_4052.xlsx")
+df = pd.read_excel("Sales Data_PDA_4052.xlsx")
 
 print("Shape of dataset:", df.shape)
 print("\nColumn names:")
